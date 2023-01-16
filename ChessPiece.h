@@ -1,5 +1,4 @@
 //
-// DD1388 - Lab 4: Losing Chess
 //
 
 #ifndef CHESSPIECE_H
