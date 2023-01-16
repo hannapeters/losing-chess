@@ -1,11 +1,8 @@
 //
-// DD1388 - Lab 4: Losing Chess
 //
 
 // Usage: lab4_tests < tests.in
-// Make sure that you've implemented the Chess classes before running the tests.
 
-// It could be a good exercise to just skim through this code to understand how it works.
 
 
 #include "ChessBoard.h"
