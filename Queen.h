@@ -1,5 +1,4 @@
 //
-// DD1388 - Lab 4: Losing Chess
 //
 #ifndef QUEEN_H
 #define QUEEN_H
