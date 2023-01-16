@@ -1,7 +1,6 @@
 //
 //
 
-// Usage: lab4_tests < tests.in
 
 
 
