@@ -1,5 +1,4 @@
 //
-// DD1388 - Lab 2: The matrix
 //
 
 #ifndef MATRIX_H
